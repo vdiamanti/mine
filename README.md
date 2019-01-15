@@ -1,2 +1,2 @@
 # mine
-my personal website
+my personal website - enhancement of my Linkedin profile.
